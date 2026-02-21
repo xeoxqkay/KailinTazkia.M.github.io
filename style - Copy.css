@@ -45,7 +45,7 @@ body {
 
 .home {
     height: 100vh;
-    background: url(../../Users/HP/Downloads/Untitleddesign.png)no-repeat;
+    background: url(Untitleddesign.png)no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -328,4 +328,5 @@ body {
 html {
     scroll-behavior: smooth;
   }
+
   
