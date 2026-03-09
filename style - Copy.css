@@ -194,7 +194,7 @@ body {
 }
 .about {
     height: 100vh;
-    background: no-repeat;
+    background: url(IMG_1607(2)).JPG no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -227,7 +227,7 @@ body {
 }
 .services {
     height: 100vh;
-    background: url(../../Users/HP/Downloads/IMG_9251.JPG)no-repeat;
+    background: url(IMG_3583.JPG)no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -330,3 +330,4 @@ html {
   }
 
   
+
