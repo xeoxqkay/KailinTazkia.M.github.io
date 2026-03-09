@@ -194,7 +194,7 @@ body {
 }
 .about {
     height: 100vh;
-    background: url(IMG_1607(2)).JPG no-repeat;
+    background: url(IMG_1607(2).JPG) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -330,5 +330,6 @@ html {
   }
 
   
+
 
 
